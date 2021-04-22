@@ -1,0 +1,9 @@
+ 
+
+insightface
+
+#facenet
+
+facenet_pytorch
+
+mxnet-mkl
